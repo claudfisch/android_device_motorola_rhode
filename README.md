@@ -9,3 +9,4 @@ SPDX-License-Identifier: Apache-2.0
 
 ```
 
+Only forked! Reference for my own build for android_device_motorola_rhodec with Android 13!
